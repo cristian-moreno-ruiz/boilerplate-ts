@@ -1,4 +1,4 @@
-import { sayHello } from '../src';
+import { sayHello } from '.';
 
 describe('sayHello', () => {
 	it('works with first', () => {
